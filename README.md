@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there - I'm Minaga Sanviru 👋🏼
+~ I’m a developer passionate about AI and modern technologies, focused on building smart and innovative solutions. <br>~ I enjoy learning new concepts, experimenting with tools, and continuously evolving my skills to stay ahead!...
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+</p>
+<br>
+<hr>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-<!--
-**MSanwiru411/MSanwiru411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
