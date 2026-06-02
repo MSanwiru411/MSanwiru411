@@ -8,7 +8,7 @@
 <br>
 <h3 align="center">⚡ Tech I Work With</h3> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c#,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,csharp,mysql,php" />
 </p>
 <br>
 <h3>🚀Current Focus</h3>
