@@ -10,7 +10,7 @@
 
 <h3 align="center">⚡ Tech I Work With</h3> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,git,mysql,php" />
 </p>
 
 <br>
